@@ -1,0 +1,5 @@
+# ninja log v5
+1	104	1729324997559972631	CMakeFiles/Serial.dir/src/CRC.cpp.o	5818249e847ec424
+1	299	1729324997755978891	CMakeFiles/Serial.dir/src/Serial_Analysis.cpp.o	f325b9013df2805c
+299	334	1729324997787979913	libSerial.a	4467201113d9826b
+0	6	0	CMakeFiles/install.util	3eebbfbf6ece0612
