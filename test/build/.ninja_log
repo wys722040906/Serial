@@ -1,0 +1,13 @@
+# ninja log v5
+0	274	1729321839100837541	Serial/CMakeFiles/Serial.dir/src/Serial_Analysis.cpp.o	949e4370357e85fb
+0	9	0	CMakeFiles/install.util	224b6ebe028aac7f
+316	374	1729322035013355307	app/test	3daad714b6e87466
+0	7	0	clean	a31eedcededa8236
+0	316	1729322034953346632	app/CMakeFiles/test.dir/main.cpp.o	ece835ed487e439f
+275	312	1729321839140836289	Serial/libSerial.a	192c1e0ef0e5f43c
+1	80	1729257105579697288	Serial/CMakeFiles/Serial.dir/src/CRC.cpp.o	45508e31dffe920a
+0	21	1729324710451207068	build.ninja	b208436fbd075d6d
+0	288	1729324710743215487	Serial/CMakeFiles/Serial.dir/src/Serial_Analysis.cpp.o	949e4370357e85fb
+288	319	1729324710775216410	Serial/libSerial.a	192c1e0ef0e5f43c
+1	331	1729324710787216756	app/CMakeFiles/test.dir/main.cpp.o	ece835ed487e439f
+331	385	1729324710839218255	app/test	3daad714b6e87466

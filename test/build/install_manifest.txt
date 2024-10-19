@@ -1,0 +1,3 @@
+/usr/local/lib/libSerial.a
+/usr/local/include/Serial/Serial_Analysis.h
+/usr/local/include/Serial/CRC.h

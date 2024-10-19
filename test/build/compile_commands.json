@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/wys/Desktop/test/build",
+  "command": "/usr/bin/clang++ -I/home/wys/Desktop/test/Serial/include -g -o Serial/CMakeFiles/Serial.dir/src/CRC.cpp.o -c /home/wys/Desktop/test/Serial/src/CRC.cpp",
+  "file": "/home/wys/Desktop/test/Serial/src/CRC.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/test/build",
+  "command": "/usr/bin/clang++ -I/home/wys/Desktop/test/Serial/include -g -o Serial/CMakeFiles/Serial.dir/src/Serial_Analysis.cpp.o -c /home/wys/Desktop/test/Serial/src/Serial_Analysis.cpp",
+  "file": "/home/wys/Desktop/test/Serial/src/Serial_Analysis.cpp"
+},
+{
+  "directory": "/home/wys/Desktop/test/build",
+  "command": "/usr/bin/clang++ -I/home/wys/Desktop/test/app/usr/local/include -I/home/wys/Desktop/test/Serial/include -g -o app/CMakeFiles/test.dir/main.cpp.o -c /home/wys/Desktop/test/app/main.cpp",
+  "file": "/home/wys/Desktop/test/app/main.cpp"
+}
+]
